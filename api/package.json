@@ -1,0 +1,10 @@
+{
+  "name": "getcalledout",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "youtube-transcript": "^1.2.1",
+    "@mozilla/readability": "^0.5.0",
+    "jsdom": "^24.1.0"
+  }
+}
